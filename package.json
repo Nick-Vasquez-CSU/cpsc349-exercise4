@@ -1,0 +1,19 @@
+{
+  "name": "cpsc349-exercise4",
+  "version": "1.0.0",
+  "description": "exercise4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Vasquez-CSU/cpsc349-exercise4.git"
+  },
+  "author": "Nicolas Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Vasquez-CSU/cpsc349-exercise4/issues"
+  },
+  "homepage": "https://github.com/Nick-Vasquez-CSU/cpsc349-exercise4#readme"
+}
